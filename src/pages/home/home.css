@@ -1,0 +1,10 @@
+a {
+  display: block;
+  color: red;
+}
+
+div.home {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
