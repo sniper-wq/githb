@@ -22,10 +22,6 @@ function App() {
     })
   }
   
-  
-  
-  
-
   return (
     <>
       {/* <button onClick={handleClick}>go</button>
